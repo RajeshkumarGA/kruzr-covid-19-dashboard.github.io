@@ -7,8 +7,8 @@ request.onload = function() {
 
   if (request.status >= 200 && request.status < 400) {
     console.log(data)
-    data.cases_time_series.forEach(movie => {
-      console.log(movie.dailyconfirmed)
+    data.cases_time_series.forEach(confirmed => {
+      console.log(confirmed.dailyconfirmed)
     })
   } else {
     console.log('error')

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="44" cy="44" r="44"></circle>
+        <ellipse id="path-3" cx="162.400485" cy="162.13602" rx="162.087379" ry="161.86398"></ellipse>
+        <path d="M0,0 L346,0 C348.761424,-5.07265313e-16 351,2.23857625 351,5 L351,375 L0,375 L0,0 Z" id="path-5"></path>
+    </defs>
+    <g id="Calming-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-967.000000, -335.000000)">
+        <g id="Group-3" transform="translate(967.000000, 335.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g mask="url(#mask-2)">
+                <g transform="translate(-118.000000, -120.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Mask" stroke="none" fill="none"></g>
+                    <g id="Group-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                        <g transform="translate(-15.000000, -27.000000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <g id="Mask" stroke="none" fill="none"></g>
+                            <g id="Group-3" opacity="0.2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-6)">
+                                <g transform="translate(268.000000, 65.000000) rotate(27.000000) translate(-268.000000, -65.000000) translate(-39.000000, -191.000000)" fill="#07A4BE">
+                                    <rect id="Rectangle-4-Copy-342" x="256.360825" y="318.613003" width="102.860825" height="74.501548"></rect>
+                                    <rect id="Rectangle-4-Copy-374" x="256.360825" y="397.869969" width="34.814433" height="74.501548"></rect>
+                                    <rect id="Rectangle-4-Copy-386" x="216.798969" y="437.498452" width="34.814433" height="74.501548"></rect>
+                                    <rect id="Rectangle-4-Copy-501" x="147.170103" y="364.582043" width="102.860825" height="68.1609907"></rect>
+                                    <rect id="Rectangle-4-Copy-537" x="295.92268" y="397.869969" width="102.860825" height="74.501548"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -94,7 +94,7 @@ function pass_data_pie_chart(arr1) {
   var myPieChart = new Chart(ctx, {
     type: 'doughnut',
     data: {
-      labels: ["Direct", "Referral", "Social"],
+      labels: ["Total", "Recoverd", "Deaths"],
       datasets: [{
         data: arr1,
         backgroundColor: ['#f6c23e', '#36b9cc', '#e74a3b'],
@@ -330,7 +330,7 @@ function barChartGenerate(state_name,statewise_active,statewise_confirmed,statew
         yAxes: [{
           ticks: {
             min: 0,
-            max: 200,
+            max: 250,
             maxTicksLimit: 50,
             padding: 1,
             // Include a dollar sign in the ticks
